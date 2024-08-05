@@ -10,7 +10,7 @@ Product Details
 
 These dashboard together form the Customer Sales Analysis and Budget Management Report.
 
-# 1. Sales Overview:
+## 1. Sales Overview:
 The Sales overview dashboard is an interactive real-time sales analysis dashboard fulfilling the first business request of migration from static reports to interactive reports.
 
 It displays the:
@@ -29,7 +29,7 @@ In order to facilitate the analysis of sales in different region we have include
 
 Sales Overview Dashboard  Sales Overview Dashboard
 
-# 2. Customer Details:
+## 2. Customer Details:
 The customer details dashboard contains visuals depicting the more specific details of sales based on the customer i.e.
 
 The Top 10 customer based on sales,
@@ -40,7 +40,7 @@ Comparison of the budget allocated and the revenue generated.
 
 Customer Details dashboard Customer Details dashboard
 
-# 3. Product Details:
+## 3. Product Details:
 The Product details dashboard contains visual the more specific details of sales based on the product i.e.
 
 The Top 10 products based on sales,
